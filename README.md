@@ -7,7 +7,7 @@ This is a business analysis project designed to demonstrate actionable insights 
 To identify profitability gaps and operational inefficiencies in Superstore's sales data and propose data-backed business recommendations across multiple domains like product portfolio, regional strategy, shipping mode, and overall profitability trend.
 
 ## Focus Areas 
-The analysis is categorized into four strstegic domains. Each theme reflects a real-world business concern and is supported with relevant pivot analyses, insights, and quantifiable recommendations.
+The analysis is categorized into four strategic domains. Each theme reflects a real-world business concern and is supported with relevant pivot analyses, insights, and quantifiable recommendations.
 - Product Portfolio Performance
 - Regional Profitability Strategy
 - Shipping Mode Efficiency
