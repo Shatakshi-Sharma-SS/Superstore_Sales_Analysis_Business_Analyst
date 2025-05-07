@@ -6,18 +6,18 @@ This project analyzes Superstore’s sales data to uncover insights that improve
 ## Objective
 To analyze Superstore’s sales, profit, discounting, and shipping data using Excel to identify key performance issues and provide data-driven, quantifiable business recommendations to enhance profitability and operational efficiency.
 
+## Tools & Skills Demonstrated
+- *Microsoft Excel* (Pivot Tables, Charts, Trendlines, Formulas, Data Cleaning, Enrichment)
+- *Microsoft Powerpoint* (Professional slide design and insights presentation)
+- *Business Analysis* (Insight derivation, quantifiable measures, strategic recommendations)
+- *GitHub* (Project documentation and version control)
+
 ## Focus Areas 
 The analysis is categorized into four strategic domains. Each theme reflects a real-world business concern and is supported with relevant pivot analyses, insights, and quantifiable recommendations.
 - Product Portfolio Performance
 - Regional Profitability Strategy
 - Shipping Mode Efficiency
 - Sales & Profitability Trend
-
-## Tools & Skills Demonstrated
-- *Microsoft Excel* (Pivot Tables, Charts, Trendlines, Formulas, Data Cleaning, Enrichment)
-- *Microsoft Powerpoint* (Professional slide design and insights presentation)
-- *Business Analysis* (Insight derivation, quantifiable measures, strategic recommendations)
-- *GitHub* (Project documentation and version control)
 
 ## Project Structure
 - **1. Instructions Guide** : Workbook navigation help, sheet descriptions.
@@ -54,6 +54,18 @@ These insights can support strategic decisions such as optimizing product mix, e
 
 ## How to Use 
 Download or clone this repository to explore the Excel and PowerPoint files. You can use this as a reference for your own business analysis case studies or portfolio.
+
+## How to View the Files
+- **`Excel Workbook (.xlxs)`** :
+
+     GitHub does not preview large Excel files directly. Please click **"View Raw"** to download and open the file in Excel.
+- **`PowerPoint Presentation (.pptx)`** :
+
+     GitHub does not preview large files directly. Please click **"View Raw"** to download and open file in PowerPoint.
+- **`PDF Version (.pdf)`** :
+
+     If GitHub shows **"Error rendering embedded code"**, click **"Download"** or **"View Raw"** to open the PDF in your browser or save 
+     it to your device.
 
 ## Dataset Source
 U.S. Superstore sales dataset consisting of 9,994 records from 2014 to 2017 (publicly available, often used for data analysis case studies).
