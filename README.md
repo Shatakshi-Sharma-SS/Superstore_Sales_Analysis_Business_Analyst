@@ -68,7 +68,7 @@ For queries or collaboration, feel free to connect via-
 
  **[LinkedIn]: (https://www.linkedin.com/in/shatakshi-sharma-ss)**
  
- **[Email]: (shatakshi.sharma.sa@gmail.com)**
+ **[Email]: (mailto:shatakshi.sharma.sa@gmail.com)**
 
 ## License
 This project is open for learning and showcasing. Please do not redistribute it as your own portfolio without significant changes.
